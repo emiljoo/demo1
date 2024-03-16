@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710624179 source:c:\users\dell\desktop\piketprojektc\piketprojekt\main.c
+	<stdio.h>
+	<stdlib.h>
+
